@@ -30,3 +30,8 @@ Install `pyttsx3` with pip:
 
 ```bash
 pip install pyttsx3
+
+Clone the repository:
+git clone https://github.com/shyamdin-9925/text-to-speech.git
+
+
